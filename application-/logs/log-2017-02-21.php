@@ -1,0 +1,20 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-02-21 17:42:44 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'error' C:\wamp1\www\reservation\system\core\CodeIgniter.php 514
+ERROR - 2017-02-21 17:43:54 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'error' C:\wamp1\www\reservation\system\core\CodeIgniter.php 514
+ERROR - 2017-02-21 17:46:32 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'error' C:\wamp1\www\reservation\system\core\CodeIgniter.php 514
+ERROR - 2017-02-21 17:46:47 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'error' C:\wamp1\www\reservation\system\core\CodeIgniter.php 514
+ERROR - 2017-02-21 17:47:37 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'error' C:\wamp1\www\reservation\system\core\CodeIgniter.php 514
+ERROR - 2017-02-21 17:49:10 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'error' C:\wamp1\www\reservation\system\core\CodeIgniter.php 514
+ERROR - 2017-02-21 17:50:06 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'error' C:\wamp1\www\reservation\system\core\CodeIgniter.php 514
+ERROR - 2017-02-21 17:52:25 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'error' C:\wamp1\www\reservation\system\core\CodeIgniter.php 514
+ERROR - 2017-02-21 17:52:32 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'error' C:\wamp1\www\reservation\system\core\CodeIgniter.php 514
+ERROR - 2017-02-21 17:52:35 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'error' C:\wamp1\www\reservation\system\core\CodeIgniter.php 514
+ERROR - 2017-02-21 17:53:28 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'error' C:\wamp1\www\reservation\system\core\CodeIgniter.php 514
+ERROR - 2017-02-21 17:54:23 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'error' C:\wamp1\www\reservation\system\core\CodeIgniter.php 514
+ERROR - 2017-02-21 18:01:20 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'error' C:\wamp1\www\reservation\system\core\CodeIgniter.php 514
+ERROR - 2017-02-21 18:06:55 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'error' C:\wamp1\www\reservation\system\core\CodeIgniter.php 514
+ERROR - 2017-02-21 18:13:15 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'error' C:\wamp1\www\reservation\system\core\CodeIgniter.php 514
+ERROR - 2017-02-21 18:20:55 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'error' C:\wamp1\www\reservation\system\core\CodeIgniter.php 514
+ERROR - 2017-02-21 18:20:55 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'error' C:\wamp1\www\reservation\system\core\CodeIgniter.php 514
+ERROR - 2017-02-21 18:21:33 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Home' does not have a method 'error' C:\wamp1\www\reservation\system\core\CodeIgniter.php 514

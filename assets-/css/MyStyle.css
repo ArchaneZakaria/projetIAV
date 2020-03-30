@@ -1,0 +1,272 @@
+ .titrePage{
+    font-family: "Font Awesome 5 Free";
+    }
+
+        #redicon{
+          color:#ff0047;
+          border: 1px solid #e5e5e5;
+          font-size: .6rem;
+
+        }
+
+        #gryicon{
+          color:#7d8482;
+          border: 1px solid #e5e5e5;
+          font-size: .6rem;
+
+        }
+        body {font-family: Arial, Helvetica, sans-serif;}
+        * {box-sizing: border-box;}
+
+        /* Button used to open the contact form - fixed at the bottom of the page */
+        .open-button {
+          background-color: #555;
+          color: white;
+          padding: 16px 20px;
+          border: none;
+          cursor: pointer;
+          opacity: 0.8;
+
+          width: 280px;
+        }
+
+        /* The popup form - hidden by default */
+        .form-popup {
+          display: none;
+          position: fixed;
+          bottom: 0;
+          right: 15px;
+          border: 3px solid #f1f1f1;
+          z-index: 9;
+        }
+
+        /* Add styles to the form container */
+        .form-container {
+          max-width: 300px;
+          padding: 10px;
+          background-color: white;
+        }
+
+        /* Full-width input fields */
+        .form-container input[type=text], .form-container input[type=password] {
+          width: 100%;
+          padding: 15px;
+          margin: 5px 0 22px 0;
+          border: none;
+          background: #f1f1f1;
+        }
+
+        /* When the inputs get focus, do something */
+        .form-container input[type=text]:focus, .form-container input[type=password]:focus {
+          background-color: #ddd;
+          outline: none;
+        }
+
+        /* Set a style for the submit/login button */
+        .form-container .btn {
+          background-color: #4CAF50;
+          color: white;
+          padding: 16px 20px;
+          border: none;
+          cursor: pointer;
+          width: 100%;
+          margin-bottom:10px;
+          opacity: 0.8;
+        }
+
+        /* Add a red background color to the cancel button */
+        .form-container .cancel {
+          background-color: red;
+        }
+
+        /* Add some hover effects to buttons */
+        .form-container .btn:hover, .open-button:hover {
+          opacity: 1;
+        }
+    .blue{
+      color:#0066CC;
+    }
+
+
+    .red{
+    color:#FF0033;
+    }
+
+    .green{
+      color:#009900;
+    }
+
+    .frns{
+      color:#006699;
+    }
+    .box{
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    label{
+      text-align: right;
+    }
+
+        <!-- time line   -->
+        <style type="text/css">
+        .tracking-detail {
+         padding:3rem 0
+        }
+        #tracking {
+         margin-bottom:1rem
+        }
+        [class*=tracking-status-] p {
+         margin:0;
+         font-size:1.1rem;
+         color:#fff;
+         text-transform:uppercase;
+         text-align:center
+        }
+        [class*=tracking-status-] {
+         padding:1.6rem 0
+        }
+        .tracking-status-intransit {
+         background-color:#65aee0
+        }
+        .tracking-status-outfordelivery {
+         background-color:#f5a551
+        }
+        .tracking-status-deliveryoffice {
+         background-color:#f7dc6f
+        }
+        .tracking-status-delivered {
+         background-color:#4cbb87
+        }
+        .tracking-status-attemptfail {
+         background-color:#b789c7
+        }
+        .tracking-status-error,.tracking-status-exception {
+         background-color:#d26759
+        }
+        .tracking-status-expired {
+         background-color:#616e7d
+        }
+        .tracking-status-pending {
+         background-color:#ccc
+        }
+        .tracking-status-inforeceived {
+         background-color:#214977
+        }
+        .tracking-list {
+         border:1px solid #e5e5e5
+        }
+        .tracking-item {
+         border-left:1px solid #e5e5e5;
+         position:relative;
+         padding:2rem 1.5rem .5rem 2.5rem;
+         font-size:.9rem;
+         margin-left:3rem;
+         min-height:5rem
+        }
+        .tracking-item:last-child {
+         padding-bottom:4rem
+        }
+        .tracking-item .tracking-date {
+         margin-bottom:.5rem
+        }
+        .tracking-item .tracking-date span {
+         color:#888;
+         font-size:85%;
+         padding-left:.4rem
+        }
+        .tracking-item .tracking-content {
+         padding:.5rem .8rem;
+         background-color:#f4f4f4;
+         border-radius:.5rem
+        }
+        .tracking-item .tracking-content span {
+         display:block;
+         color:#888;
+         font-size:85%
+        }
+        .tracking-item .tracking-icon {
+         line-height:2.6rem;
+         position:absolute;
+         left:-1.3rem;
+         width:2.6rem;
+         height:2.6rem;
+         text-align:center;
+         border-radius:50%;
+         font-size:1.1rem;
+         background-color:#fff;
+         color:#fff
+        }
+        .tracking-item .tracking-icon.status-sponsored {
+         background-color:#f68
+        }
+        .tracking-item .tracking-icon.status-delivered {
+         background-color:#4cbb87
+        }
+        .tracking-item .tracking-icon.status-outfordelivery {
+         background-color:#f5a551
+        }
+        .tracking-item .tracking-icon.status-deliveryoffice {
+         background-color:#f7dc6f
+        }
+        .tracking-item .tracking-icon.status-attemptfail {
+         background-color:#b789c7
+        }
+        .tracking-item .tracking-icon.status-exception {
+         background-color:#d26759
+        }
+        .tracking-item .tracking-icon.status-inforeceived {
+         background-color:#214977
+        }
+
+        .tracking-item .tracking-icon.status-intransit {
+         color:#009966;
+         border:1px solid #e5e5e5;
+         font-size:.6rem
+        }
+
+        .tracking-item .tracking-icon.status-intransit .red{
+         color:#ed1212;
+         border:1px solid #e5e5e5;
+         font-size:.6rem
+        }
+        @media(min-width:992px) {
+         .tracking-item {
+          margin-left:10rem
+         }
+         .tracking-item .tracking-date {
+          position:absolute;
+          left:-10rem;
+          width:7.5rem;
+          text-align:right
+         }
+         .tracking-item .tracking-date span {
+          display:block
+         }
+         .tracking-item .tracking-content {
+          padding:0;
+          background-color:transparent
+         }
+        }
+        .logo{
+      font-size:20px;
+      color:#FFF;
+    }
+
+    .menu{
+      color:#999;
+    }
+
+    .menu:hover{
+      color:#FFF;
+    }
+
+
+    .dropdown-submenu {
+      position: relative;
+    }
+
+    .dropdown-submenu .dropdown-menu {
+      top: 0;
+      left: 100%;
+      margin-top: -1px;
+    }
